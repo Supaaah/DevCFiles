@@ -1,2 +1,2 @@
 # DevCFiles
-Recent Activities during Data Structures using C++
+Recent Activities in Data Structures using C++
