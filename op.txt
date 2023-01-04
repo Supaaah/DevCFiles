@@ -1,0 +1,2 @@
+ The largerst value is: 100
+ The smallest value is: 17
